@@ -1,0 +1,1071 @@
+﻿IBMResearch Distributed Deep Learning software achieves record image  recognition accuracy and performance for la… httpstcoLEqv8pVXFi
+After Test Behaviour In Wide Deep Neural Networks
+"An Intuitive Guide To Convolutional Neural Networks gt; By Daphne Cornelisse
+
+Technology MachineLearning… httpstcolHge32hZmj"
+Brin pointed out that when Google launched 20 years ago, neural networks were a nearly forgotten technology that… httpstcosyYA06o9Mg
+But here’s the twist Other neural networks reliably classify the system’s wildly imaginative drawing as a fan, to… httpstcoEVJSM6rZbr
+Can recurrent neural networks warp time arXiv180411188v1 csLG httpstcoD1k1s4yEYm
+Perceptual reality is the foundation of personal neural networks httpstcofT5Fv0QkwQ
+Silent talking and listening could be a boon for all sorts of workers, military, law enforcement, and individuals… httpstcoGF6wxMASOn
+“Learning to Represent Programs as Graphs” with miltos1 from MSFTResearch at iclr18 Nice application of graph n… httpstcoRntP3fURy4
+"“Neural networks from scratch for Javascript linguists Part1 — The Perceptron” by Elyx0 
+
+httpstcoIVAaLEtzay"
+“We have explored the techniques at the practical frontier of AI Our use cases demonstrate just how powerful deep… httpstcoirKPh4t25N
+iOS Tutorial I am using CNNs for face recognition amp; facial expression The results are amazing… httpstcowCAalXeh8w
+BGXGlobal BGX is a comprehensive solution that supports mobile game features and combines the capabilities of bloc… httpstco07RT87mdmq
+BGXGlobal BGX is a comprehensive solution that supports mobile game features and combines the capabilities of bloc… httpstcoXgkNEhJxRq
+businessinsider Why is everyone expressing their disbelief here He's not in charge of developing Facebook's algor… httpstcoWIq77f6oH0
+cxi I'm inclined to agree with you, particularly given our friends at Google Brain perfected the ability to transl… httpstcos4byLMPH07
+"Datascience__ Cracking the Internal HealthCode with Deep Learning
+httpstco31jAIxfaOK via ibm httpstcohYendRLFJC"
+DeepMindAI Neural networks can probably execute logical entailment - that's not the same thing as understanding it Maybe one day though
+erezkatz httpstco7TKcOcE7jW In the past decade, the most successful implementations in deep neural networks… httpstcoWOMT0QVggz
+FakeIACR Do not forget Blockchain-based AI neural networks for big data processing
+fubits JurgenPfeffer jugendhackt RLadiesBerlin elizab0t miguelitoj89 Mmh We havn't done anything like that y… httpstcoSr4AdovV2j
+HeroicActRPG MAGA_zilla PrisonPlanet Im a comp sci major lol, neural networks are my jam
+"jsonbecker AI was on that curve too Now look at us
+
+CRISPR may be the enabling breakthrough a bit like deep neural networks were for AI"
+larsiusprime Neural networks are a black box, ML is more than that  There are plenty of human-readable ML algorithms
+miltos1 is now talking about learning to debug programs using graph neural networks at ICLR2018
+onur_kabul Mustafa Kabul is showcasing how he applied similar capabilities in computer vision using recurrent neur… httpstcoMov1cbIqrS
+shafyamk Not only that, but we then use whatever knowledge we have about the human brain to further AI via neural… httpstcoOgqGaMWLQ9
+VergeScience I do research on human consciousness and we have cutting edge fmri rigs, neural networks, and EEG har… httpstcozDBHuYUsLz
+ArtificialNeuralNetworks Some Misconceptions Part 5 httpstcoOumYLhtltU
+"DeepLearning AI based on NeuralNetworks can capture trillions in value, according to McKinsey
+
+httpstcolrAH2mmbLX"
+DEVX    Community Presale is running right now Open Source  Everything, Full  Stack, Artificial Intelligence, Blo… httpstco9yD6h13qbe
+IJCAI18 Profile-guided memory optimization for deep neural networks arXiv180410001v1 cs\DC httpstcoEOreFsdcdx
+intelAI Research showcased this week at ICLR2018 Mixed Precision Training of Convolutional Neural Networks usin… httpstcoJMWylhUfTi
+Replicating HumanMemory Structures in NeuralNetworks to Create Precise NLU algorithms httpstcoTUczv05Vhw via analyticsvidhya
+RT analyticbridge Neural Networks The Backpropagation algorithm in a picture httpstcodL8TYGysPB
+RT analyticbridge RT analyticbridge Matrix Multiplication in Neural Networks httpstcooHMUpte2hp
+TheAIConf Long-term time series forecasting with recurrent neural networks session httpstcou8DY1QLQA0
+
+GOOG patent 9,940,573 Superpixel methods for convolutional neural networks tech IP research… httpstcozoOplKgZqW
+"A big step neural networks are now the arbiter of the content AI
+
+« It’s art by AI, for AI
+It inverts the ster… httpstco3Gudxwosq2"
+A look at how neural networks can extract summaries from text documents by new contributor thesupercoder_ httpstco40FwCxAhh6
+A small glimpse of Googlers presenting at ICLR2018, with a Best Paper award  httpstcoGUop76fakz ,… httpstcoTowS8Ed3U7
+"Accepted at COLT 2018
+By the way, this is not only theory, it really works Stay tuned for the experiments on Deep… httpstcoWLRort5kzb"
+adammonago Leading Wireless Audio SoC Supplier Seeking Funding NOW - httpstco9qdr4P36Y2 Artificial Neural Netw… httpstcoeLbriclYBm
+Apparently 40 minutes presentation was not enough for the audience Great to see the interest for long-term time se… httpstcoHw2Be4vlN6
+Can NeuralNetworks have mental health problems httpstcoemeHPPdk3o
+Can a working theory of deep neural networks begin to crack the puzzle of intelligence itself httpstco6Mu7WPtWWt  MITBetterWorld
+Can convolutional neural networks accurately select MRI protocols via RadiologyBiz httpstcor05iuDRNng
+"Can neural networks understand logical entailment
+httpstcoD9Jx62VLC8 ICLR2018 httpstcoCYXJHrgzkJ"
+"Can neural networks understand logical entailment
+httpstcoqNZYpOOfVW ICLR2018 httpstcoeLRWpLGbGr"
+"Check out our ICLR2018 paper on learning to compress neural networks Paper, pytorch code and models
+
+“N2N Learni… httpstcoWMTkW7jIM0"
+Check out this DIY self-driving car that Amaan Khan built It uses convolutional neural networks for steering and a… httpstcoDDJnK8Wi6t
+Checking out 22 Great Articles About Neural Networks on Data Science Central httpstcoGmHWcGBNUd
+"Checkout today's Term of the Day Output Layer httpstcojYt8VbXwoS
+
+technology tech NeuralNetwork… httpstcoOES3IorYeZ"
+
+Convolutional Neural Networks Provide Rapid Intraoperative Diagnosis of Neurosurgical Specimens Imaged with Sti httpstcofJH5Wirnzc
+Deep learning amp; neural networks in pytorch for beginners httpstcoHiuONTCAZG machinelearnbot machinelearning ad
+Deep Learning 2 Manuscripts - Analyzing Data With Power Bi And Convolutional Neural Networks In Python… httpstco2BB4hCNo8M
+Deep Learning 2 Manuscripts Analyzing Data With Power Bi And Convolutional Neural Networks In Python… httpstcocNoUroI1qq
+"Deep Learning Convolutional Neural Networks in Python
+☞ httpstcoIAnT7eYOKD
+Python
+rybk6PxTG httpstcoZFBRmtjuB4"
+Deeplite created the AI-driven Optimizer to make deep neural networks DNNs faster, smaller, and energy-efficient… httpstcoUw3caqKwCG
+Definitely could have used this in my days as an English major — “Extractive Text Summarization using Neural Netwo… httpstcoIWxG1NFbTR
+"Don't miss a news from IagonOfficial - Follow them on Medium
+If you forgot, IagonOfficial use a combination of m… httpstcontm12pEkjd"
+Download this guide to get a better understanding of neural networks, how they work, how they've evolved and how th… httpstcoZiwKcjZX4p
+Extracting textual overlays from social media videos using neural networks httpstcoXGYFfQMXDy
+General purpose AI or neural networks, as they’re more commonly called, are designed so that programming them isn’t… httpstcoOmB5VM5qBm
+"Google Researchers Have a New Alternative to Traditional Neural Networks 
+httpstcobCxdT88Hnk"
+
+Join ICLR 2018 Poster Session Efficient Sparse-Winograd Convolutional Neural Networks httpstcolzdwsAz9w4
+Keras and Convolutional Neural Networks CNNs - PyImageSearch httpstcoqhzFmtCvxG
+Learning to reason about code with graph neural networks at ICLR2018 httpstco5dQx4c83fw
+like sophisticated fakery is perfectly possible now, we can do neural networks etc, but it isn't even needed — you… httpstcoh2sEOV78rg
+Machine learning, deep learning and neural networks are all buzzwords dominating any AI conversation But what are… httpstcoa9imsmvwbo
+McKinsey Deep learning AI based on neural networks can capture trillions in value httpstcooihhYw35Dt httpstco3TGu24P5wB
+Neural Networks and Deep Learning DeepLearning httpstcoJcZTgW87ok
+Neural Networks and the BiasVariance Dilemma httpstcolHponAoaLP date of publication 1992
+neural networks for beginners from scatch httpstco5duBJnpt5V machinelearnbot machinelearning ad
+Neural networks is for artificial intelligence as ray tracing is for graphics
+Neural Networks The Backpropagation algorithm in a picture httpstcoGykFNuu5KA
+NEW BOOK Neural Networks Without the Math httpstcorB6R709HiV
+New startup idea take YouTube, exploit neural networks amp; neural networks, and rewrite it in Haskell
+"New Theory Cracks Open the Black Box of Deep Neural Networks
+httpstcoHJchwHSq73"
+nice application of convolutional neural networks, data and source code are available httpstcoI1LFwAyti1
+Not all AI is equal More advanced AI techniques such as deep learning using artificial neural networks have the… httpstco2jGRbsLA6w
+
+Oh, a sarcasm detector Oh, that's a real useful invention “Detecting Sarcasm with Deep Convolutional Neural Networ… httpstco9Hiw7esh6n
+Output Layer, httpstcovrf0rfXvzG
+pivoting to disrupt millennials using neural networks and Rust
+Preparing against fooling neural networks IBM research contribution is Adversarial Robustness Toolbox as a open so… httpstcoIPzZjCvgUr
+Recurrent neural networks are applicable to this non-linearity TheAIConf httpstco2CxXQNZtrE
+RT 1stInSEO Deep Learning and Neural Networks An Introdution |DeepLearning NeuralNetworks 1st In SEO - httpstcoLFiPbH9NsT https…
+"RT abhinav Neural networks gone wrong
+
+My 2 year old picked up colors by herself after watching tons of youtube videos First set of col…"
+"RT abhinav Neural networks gone wrong
+
+My 2 year old picked up colors by herself after watching tons of youtube videos First set of col…"
+RT AitheonOfficial WOW Thank you Icostock24 for rating AitheonOfficial a Best ICO in the AI amp; Neural networks category What an inc…
+"RT amichaelwinter Extremely well done tutorials on Deep Neural Networks and Tensor Flow AI TensorFlow kiss
+
+httpstcop6e1pcW8iO h…"
+"RT ApacheMXNet Learn how the imperative nature of MXNet Gluon makes the interactive debugging of Deep Neural Networks straightforward
+ht…"
+RT arxiv_org Extracting textual overlays from social media videos using neural networks httpstcotJJIJ0ZJJ8 httpstcoUXjaQetrZG
+RT arxiv_org Extracting textual overlays from social media videos using neural networks httpstcotJJIJ0ZJJ8 httpstcoUXjaQetrZG
+RT austin_kodra Definitely could have used this in my days as an English major — “Extractive Text Summarization using Neural Networks” b…
+RT AvatarNemo Detecting Sarcasm with Deep Convolutional Neural Networks httpstco2FpcYpTeeO
+RT benpopper AI is learning how to detect sarcasm I don't see how this could possibly go wrong httpstcoYHFeeQjikW
+"RT BlackHalt Design
+
+httpstcoPg7y5H1KD0
+
+Digital art, Deepdream art, Deep Neural Networks
+
+T-Shirts amp; Hoodies, iPhone Cases, Sticke…"
+RT ClaySharps LotusOak I always have thought this is why my grandson is now autistic I think This kind of crap destroyed his neural net…
+"RT cloudpreacher The mostly complete chart of Neural Networks, explained A great cheatsheet on NN topologies 
+
+httpstco4emR852V2z…"
+RT colour_science Impressive Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction AkiyoshiKitaoka httpstco…
+RT deeplearning4j Detecting Sarcasm with Deep Convolutional Neural Networks  Seriously httpstcoYNlYrYU5G7 deeplearning
+"RT DeepMindAI Can neural networks understand logical entailment
+httpstcoD9Jx62VLC8 ICLR2018 httpstcoCYXJHrgzkJ"
+RT DementiaModel Read our latest work Robust training of recurrent neural networks to handle missing data for disease progression modeli…
+RT developerWorks IBM  O'Reilly AI NYC Recurrent neural networks for recommendations and personalization with IBM's Nick Pentreath ML…
+RT econalert GOOG patent 9,940,573 Superpixel methods for convolutional neural networks tech IP research httpstcoMInzsfD31J htt…
+RT eh_first eHelath First is an IT platform for personalized health and longevity management It is based on Blockchain, Neural Networks,…
+RT erbrito TheAIConf Long-term time series forecasting with recurrent neural networks session httpstcou8DY1QLQA0
+"RT ESiravegna The next time somebody tells you that they can profile you from your tweets accurately, tell them this 
+We can barely,as p…"
+"RT ESiravegna The next time somebody tells you that they can profile you from your tweets accurately, tell them this 
+We can barely,as p…"
+RT fchollet Neural networks are a sad misnomer They're neither neural nor even networks They're chains of differentiable, parameteriz…
+RT FigureEightInc 9 days until TRAINAI2018 Attend our TRAINAI2018 pre-conference workshop Introduction to Deep Learning This course…
+RT Fundica Deeplite created the AI-driven Optimizer to make deep neural networks DNNs faster, smaller, and energy-efficient from cloud…
+RT gcosma1 Fundamentals of Deep Learning – Starting with Artificial Neural Network httpstcobamVWf9Lcc DataScience MachineLearning…
+RT gcosma1 Great A Beginner's Guide to Understanding Convolutional Neural Networks Part 2 w papers httpstco47EuG5tGi0 via DZon…
+RT gcosma1 Great Tutorial on how to train a Convolutional Neural Network using Keras and deep learning to recognize and classify images…
+RT gcosma1 Nice explanation of CNN and the math behind it  A Beginner's Guide to Understanding Convolutional Neural Networks httpstc…
+RT globaldatamaker By 2018, deep learning deep neural networks DNNs will be a standard component in 80 of data scientists' tool box…
+RT gneubig Looking forward to final poster presentations for the LTIatCMU Neural Networks for NLP class, Tuesday and Thursday 430-55…
+RT googleresearch A small glimpse of Googlers presenting at ICLR2018, with a Best Paper award httpstco21GrJjhGM9, jesseengel sha…
+RT gp_pulipaka Detecting Sarcasm with Deep Convolutional Neural Networks BigData DeepLearning MachineLearning DataScience AI NLP …
+RT hardmaru Interactive Sketch-Based Normal Map Generation with Deep Neural Networks They developed an interactive tool that use GANs to…
+"RT HoffmannAnja DeepLearning AI based on NeuralNetworks can capture trillions in value, according to McKinsey
+
+httpstcolrAH2mmbLX"
+"RT iamtrask A Beginner's Guide to the Mathematics of Neural Networks
+
+It's a super old school document circa 1995 introducing the bas…"
+"RT iamtrask If you're learning convolutional neural nets - add this blog to your list
+
+httpstcoRehzjCOVGa"
+RT iamtrask This post is awesome - I originally had to learn these bits of PyTorch by disecting example code a bit tedious This tutor…
+RT IBMPowerSystems IBMResearch Distributed Deep Learning software achieves record image  recognition accuracy and performance for large…
+RT ilknurkabul Apparently 40 minutes presentation was not enough for the audience Great to see the interest for long-term time series fo…
+RT IntelAIDev intelAI Research showcased this week at ICLR2018 Mixed Precision Training of Convolutional Neural Networks using Intege…
+"RT ipfconline1 NeuralNetworks The Backpropagation Algorithm in a Picture
+
+httpstcoisV4AyGe9B  via DataScienceCtrl
+DeepLearning…"
+RT jerome_etienne Recurrent Neural Networks RNN and Long Short-Term Memory LSTM - very educational and easy to understand video - by…
+RT JonLenglain With TensorFlow, one of the most popular machine learning frameworks available today, you can easily create and train deep…
+RT KirkDBorne Using Convolutional NeuralNetworks to detect features in satellite images httpstcoQh6QTMVeCH abdsc BigData DataSc…
+RT ldvcapital A Stanford research team is using imaging sensors and neural networks to create an algorithm to detect hospital staff use a…
+RT liftyourgame AndrewYNg When will 'Convolutional Neural Networks' be released on Coursera
+"RT louriealexandre A big step neural networks are now the arbiter of the content AI
+
+« It’s art by AI, for AI
+It inverts the stereot…"
+RT machinelearnbot Deep learning amp; neural networks in pytorch for beginners httpstcoHiuONTCAZG machinelearnbot machinelearning ad
+RT machinelearnbot neural networks for beginners from scatch httpstco5duBJnpt5V machinelearnbot machinelearning ad
+"RT mariajohnsenfan ArtificialIntelligence Creating Innovative NeuralNetworks 
+httpstcoZVRcsfE74w
+AI MariaJohnsen Europe innova…"
+"RT Maryamhasnaa You have neural networks for everything from driving and brushing your teeth to your emotional reactions to life 
+
+The s…"
+"RT Maryamhasnaa You have neural networks for everything from driving and brushing your teeth to your emotional reactions to life 
+
+The s…"
+RT mathieuhelie Just published How neural networks explain Jane Jacobs’ vision for a science of cities, at The Nature of Cities DeathA…
+RT mattmayo13 Detecting Sarcasm with Deep Convolutional NeuralNetworks httpstcocWQq1Rf3nq httpstcobrgRZvyw3z
+RT McKinsey_MGI Not all AI is equal More advanced AI techniques such as deep learning using artificial neural networks have the power…
+RT Mentalo Checking out 22 Great Articles About Neural Networks on Data Science Central httpstcoGmHWcGBNUd
+RT moyix The code and models for BadNets planting backdoors in deep neural networks are now available on GitHub Thanks to Tianyu Gu fo…
+RT mrTomSab onur_kabul Mustafa Kabul is showcasing how he applied similar capabilities in computer vision using recurrent neural network…
+"RT nick_rhinehart Check out our ICLR2018 paper on learning to compress neural networks Paper, pytorch code and models
+
+“N2N Learning…"
+"RT nick_rhinehart Check out our ICLR2018 paper on learning to compress neural networks Paper, pytorch code and models
+
+“N2N Learning…"
+RT nigewillson The History of Neural Networks and AI  httpstcowGlJDbVimF AI NeuralNetwork DeepLearning httpstco4bZCVij9cp
+RT nyike In neural networks and deep learning, you have to study when and why the algorithm makes mistakes “Explainable AI” Will also b…
+RT Philip_Edgcumbe Here is an interesting and under-appreciated application of deep learning in radiology it turns out that a convolut…
+"RT pyguide An Intuitive Guide To Convolutional Neural Networks gt; By Daphne Cornelisse
+
+Technology MachineLearning Programming Deep…"
+"RT pyguide An Intuitive Guide To Convolutional Neural Networks gt; By Daphne Cornelisse
+
+Technology MachineLearning Programming Deep…"
+"RT pyguide An Intuitive Guide To Convolutional Neural Networks gt; By Daphne Cornelisse
+
+Technology MachineLearning Programming Deep…"
+RT PyImageSearch Happy Monday Here's a new tutorial on using Python, Keras and Convolutional Neural Networks to classify Pokemon spec…
+RT PythonWeekly Deep Learning with TensorFlow - Second Edition Explore neural networks with Python  httpstcorAW8n6a2Pw DeepLearnin…
+RT QuantaMagazine Learning entails forgetting The brain might be reluctant to let go of things it already knows how to do — Aaron Bat…
+RT RickKing16 Detecting Sarcasm with Deep Convolutional Neural Networks httpstcoXxR6HEXrx2 ai httpstcon9jJ3yQbFz
+RT RickKing16 Detecting Sarcasm with Deep Convolutional Neural Networks httpstcoXxR6HEXrx2 ai httpstcon9jJ3yQbFz
+RT sandeshr Strengths and weaknesses of Neural Networks TheAIConf httpstcomfZvY5h0Xd
+"RT SciPyTip Python libraries for neural networks
+httpstcoMCGbXjZA6C"
+RT slashML Detecting Sarcasm with Deep Convolutional Neural Networks httpstcogtj85QfN4G
+RT slashML Detecting Sarcasm with Deep Convolutional Neural Networks httpstcogtj85QfN4G
+"RT SpirosMargaris Detecting Sarcasm with 
+
+Deep Convolutional NeuralNetworks 
+
+httpstcoX3LuGDHsyT fintech innsurtech omarsar0 A…"
+RT StatMLPapers Gaussian Process Behaviour in Wide Deep Neural Networks arXiv180411271v1 httpstcozjV5HgYw5a httpstcoOqVN…
+RT ThisIsBernardo Artificial Neural Networks Some Misconceptions Part 5 - DZone AI - httpstcoBX2AwSEPZU
+RT v_vashishta Modelling customer online behaviors with neural networks applications to conversion prediction and advertising retargetin…
+RT waifu2x_multi waifu2x-multi is AI Super-Resolution technology for Anime-Style Art and Photo using the Convolutional Neural Networks wi…
+RT webshopmarketin ArtificialIntelligence Creating Innovative NeuralNetworks  httpstcoWFIM2ZP3Nh  AI MariaJohnsen Europe innov…
+"Still need to experiment it  But is sounds very interesting 
+
+Anyone already expert on this … httpstcorpSf1cnO9N"
+Strengths and weaknesses of Neural Networks TheAIConf httpstcomfZvY5h0Xd
+"The next time somebody tells you that they can profile you from your tweets accurately, tell them this 
+We can bar… httpstcoDII2KJhKOk"
+They found that listening to music recruits the auditory areas, and employs large-scale neural networks in the brai… httpstcoSgUIu0PjAh
+This app analysed all no-context spoilers posted by people who have publicly expressed anti-spoiler sentiments, and… httpstcoY1YrTUTeCn
+Toward a theory of coactivation patterns in excitable neural networks httpstcobrGcXNH8Ks
+Towards Understandable Neural Networks for High Level AI Tasks - Part 6 hashtags - httpstcoUU0kYRhH5e httpstcooQDhkF3Pkd
+very cool preprint posted on EarthArXiv today by fkratzert et al on LSTM neural networks Rainfall-Runoff model… httpstcoFS45FT17gr
+Very good first step to learn recurrent neural networks httpstcoEiADZjJ5SI machinelearning
+WATCH Neural networks allow this app to help people understand their finances and change their spending behavior… httpstcoT5qxPvPyyN
+Webinar all about the latest in Neural Networks Maybe it is time to upgrade my Neural Network Utility400 program… httpstcoMfHk6AMfp5
+What Is IIOT, And How Is It Powering The Fourth Industrial Revolution Learn From Hitachi, Caterpillar, Google, Ube… httpstcoqjxjZY9PCo
+With artificial intelligence detecting sarcasm, misunderstandings in written online communication will be a thing o… httpstcofSi4NdstD7
+Wondering how expressive are RNNs compared to usual feed-forward networks To find out, stop by our poster Express… httpstcoOofOqql7mL
+"Wow McKinsey Deep learning based on neural networks can capture trillions in value
+
+tech technology… httpstcoyuOgrc1UTi"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
